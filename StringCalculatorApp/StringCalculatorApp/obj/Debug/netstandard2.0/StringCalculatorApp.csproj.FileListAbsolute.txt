@@ -1,0 +1,9 @@
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\bin\Debug\netstandard2.0\StringCalculatorApp.deps.json
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\bin\Debug\netstandard2.0\StringCalculatorApp.dll
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\bin\Debug\netstandard2.0\StringCalculatorApp.pdb
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\obj\Debug\netstandard2.0\StringCalculatorApp.csprojAssemblyReference.cache
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\obj\Debug\netstandard2.0\StringCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\obj\Debug\netstandard2.0\StringCalculatorApp.AssemblyInfoInputs.cache
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\obj\Debug\netstandard2.0\StringCalculatorApp.AssemblyInfo.cs
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\obj\Debug\netstandard2.0\StringCalculatorApp.dll
+C:\Archive\Projects\StringCalculatorApp\StringCalculatorApp\StringCalculatorApp\obj\Debug\netstandard2.0\StringCalculatorApp.pdb
